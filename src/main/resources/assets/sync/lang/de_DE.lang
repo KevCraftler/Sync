@@ -20,7 +20,7 @@ chat.command.sync.usage=/Sync <clear>
 sync.config.cat.gameplay.name=Gameplay
 sync.config.cat.clientOnly.name=Client Only
 
-sync.config.cat.gameplay.comment=These options affect the gameplay while using the mod.
+sync.config.cat.gameplay.comment=Diese Optionen beinflussen das Gameplay während der Benutzung des Mods.
 sync.config.cat.clientOnly.comment=These settings are client-only.
 
 sync.config.prop.shellConstructionPowerRequirement.name=Shell Construction Power Requirement
@@ -31,7 +31,7 @@ sync.config.prop.overrideDeathIfThereAreAvailableShells.name=Override Death If T
 sync.config.prop.prioritizeHomeShellOnDeath.name=Prioritize Home Shell On Death?
 sync.config.prop.crossDimensionalSyncingOnDeath.name=Cross Dimensional Syncing on Death
 sync.config.prop.allowChunkLoading.name=Allow Chunk Loading
-sync.config.prop.hardcoreMode.name=Hardcore Mode
+sync.config.prop.hardcoreMode.name=Hardcore Modus
 sync.config.prop.ratioRF.name=RF:PG Ratio
 sync.config.prop.showAllShellInfoInGui.name=Show All Shell Info In Gui
 
@@ -44,6 +44,6 @@ sync.config.prop.overrideDeathIfThereAreAvailableShells.comment=Allow overriding
 sync.config.prop.prioritizeHomeShellOnDeath.comment=Prioritize "Home" Shells when a player dies and resyncs?
 sync.config.prop.crossDimensionalSyncingOnDeath.comment=Allow cross dimensional syncing when a player dies and resyncs?
 sync.config.prop.allowChunkLoading.comment=Added by request, mod is made to chunkload shells. Untested, unsupported.\nCould crash your world fatally.\nDisable at own risk.
-sync.config.prop.hardcoreMode.comment=Enable hardcore mode recipes?\n0 = No\n1 = Yes\n2 = Yes, but only on actual Hardcore mode.
+sync.config.prop.hardcoreMode.comment=Hardcore-Modus Rezepte aktivieren?\n0 = Nein\n1 = Ja\n2 = Ja, aber nur im Hardcore-Modus.
 sync.config.prop.ratioRF.comment=Redstone Flux : Piggawatt ratio.\n1RF = <config>PG\nDefault is 1 RF creates 2 PG
 sync.config.prop.showAllShellInfoInGui.comment=Show info of all shells in the GUI?\n0 = No\n1 = Just the name will do\n2 = Yes, in all full blown glory!
